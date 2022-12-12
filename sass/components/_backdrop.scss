@@ -201,6 +201,9 @@ height: 15px;
  fill: white; 
  border: solid 1px #212121;
 border-radius: 2px;
+@media screen and (min-width: 1200px) {
+ bottom: 125px;
+}
 }
 
 &__checkbox-input {
